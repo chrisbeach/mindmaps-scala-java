@@ -36,6 +36,10 @@ A work in progress - pull requests gladly accepted.
 
 ![Implicits in Scala](Implicits in Scala.mindnode/QuickLook/Preview.jpg)
 
+## Type Classes in Scala
+
+![Type Classes in Scala](Type Classes in Scala.mindnode/QuickLook/Preview.jpg)
+
 # Data Structures
 
 ## Functors and Monads in Scala
