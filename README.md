@@ -1,2 +1,7 @@
 # mindmaps-scala-java
-Mindnode mind maps to aid learning Scala and Java
+
+[Mindnode](https://mindnode.com) mind maps to aid learning Scala and Java
+
+### Key
+
+![Key](./key.png)
