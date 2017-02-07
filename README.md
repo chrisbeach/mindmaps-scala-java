@@ -26,11 +26,15 @@ A work in progress - pull requests gladly accepted.
 
 ![Futures and Promises in Scala](Futures and Promises in Scala.mindnode/QuickLook/Preview.jpg)
 
-# Types
+# Types and Scopes
 
 ## Covariance and Contravariance in Scala
 
 ![Covariance and Contravariance in Scala](Covariance and Contravariance in Scala.mindnode/QuickLook/Preview.jpg)
+
+## Implicits in Scala
+
+![Implicits in Scala](Implicits in Scala.mindnode/QuickLook/Preview.jpg)
 
 # Data Structures
 
