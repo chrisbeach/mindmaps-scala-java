@@ -18,3 +18,7 @@ A work in progress - pull requests gladly accepted.
 ## Futures and Promises
 
 ![Futures and Promises in Scala](Futures and Promises in Scala.mindnode/QuickLook/Preview.jpg)
+
+## Functors and Monads in Scala
+
+![Functors and Monads in Scala](Functors and Monads in Scala.mindnode/QuickLook/Preview.jpg)
