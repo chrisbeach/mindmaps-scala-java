@@ -18,6 +18,10 @@ A work in progress - pull requests gladly accepted.
 
 ![Locks and Concurrency Control](Locks and Concurrency Control.mindnode/QuickLook/Preview.jpg)
 
+## Liveness Problems
+
+![Liveness Problems](Liveness Problems.mindnode/QuickLook/Preview.jpg)
+
 ## Futures and Promises in Scala
 
 ![Futures and Promises in Scala](Futures and Promises in Scala.mindnode/QuickLook/Preview.jpg)
