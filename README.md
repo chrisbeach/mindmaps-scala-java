@@ -32,6 +32,8 @@ A work in progress - pull requests gladly accepted.
 
 ![Covariance and Contravariance in Scala](Covariance and Contravariance in Scala.mindnode/QuickLook/Preview.jpg)
 
+# Data Structures
+
 ## Functors and Monads in Scala
 
 ![Functors and Monads in Scala](Functors and Monads in Scala.mindnode/QuickLook/Preview.jpg)
@@ -39,3 +41,7 @@ A work in progress - pull requests gladly accepted.
 ## Immutable Collections in Scala
 
 ![Immutable Collections in Scala](Immutable Collections in Scala.mindnode/QuickLook/Preview.jpg)
+
+## Graphs in Memory
+
+![Graphs in Memory](Graphs in Memory.mindnode/QuickLook/Preview.jpg)
