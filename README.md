@@ -1,5 +1,3 @@
-# mindmaps-scala-java
-
 [Mindnode](https://mindnode.com) mind maps to aid learning Scala and Java
 
 A work in progress - pull requests gladly accepted.
