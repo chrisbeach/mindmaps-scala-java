@@ -25,4 +25,4 @@ A work in progress - pull requests gladly accepted.
 
 ## Covariance and Contravariance in Scala
 
-![Covariance and Contravariance in Scala(Covariance and Contravariance in Scala.mindnode/QuickLook/Preview.jpg)
+![Covariance and Contravariance in Scala](Covariance and Contravariance in Scala.mindnode/QuickLook/Preview.jpg)
