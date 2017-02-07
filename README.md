@@ -11,6 +11,10 @@ A work in progress - pull requests gladly accepted.
 
 ![Design Patterns in Scala vs Java](Design Patterns in Scala vs Java.mindnode/QuickLook/Preview.jpg)
 
+## Immutable Collections in Scala
+
+![Immutable Collections in Scala](Immutable Collections in Scala.mindnode/QuickLook/Preview.jpg)
+
 ## Futures and Promises
 
 ![Futures and Promises in Scala](Futures and Promises in Scala.mindnode/QuickLook/Preview.jpg)
