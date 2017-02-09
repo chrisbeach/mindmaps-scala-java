@@ -54,6 +54,6 @@ A work in progress - pull requests gladly accepted.
 
 ![Immutable Collections in Scala](Immutable Collections in Scala.mindnode/QuickLook/Preview.jpg)
 
-## Graphs in Memory
+## Graph Data Structures
 
-![Graphs in Memory](Graphs in Memory.mindnode/QuickLook/Preview.jpg)
+![Graph Data Structures](Graph Data Structures.mindnode/QuickLook/Preview.jpg)
