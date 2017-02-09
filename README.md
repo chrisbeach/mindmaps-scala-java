@@ -26,6 +26,10 @@ A work in progress - pull requests gladly accepted.
 
 ![Futures and Promises in Scala](Futures and Promises in Scala.mindnode/QuickLook/Preview.jpg)
 
+## Actor Pattern and Akka
+
+![Actor Pattern and Akka](Actor Pattern and Akka.mindnode/QuickLook/Preview.jpg)
+
 # Types and Scopes
 
 ## Covariance and Contravariance in Scala
