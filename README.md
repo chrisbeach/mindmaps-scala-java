@@ -10,50 +10,50 @@ A work in progress - pull requests gladly accepted.
 
 ## Design Patterns in Scala vs Java
 
-![Design Patterns in Scala vs Java](Design Patterns in Scala vs Java.mindnode/QuickLook/Preview.jpg)
+![Design Patterns in Scala vs Java](./Design%20Patterns%20in%20Scala%20vs%20Java.mindnode/QuickLook/Preview.jpg)
 
 # Concurrency
 
 ## Locks and Concurrency Control
 
-![Locks and Concurrency Control](Locks and Concurrency Control.mindnode/QuickLook/Preview.jpg)
+![Locks and Concurrency Control](./Locks%20and%20Concurrency%20Control.mindnode/QuickLook/Preview.jpg)
 
 ## Liveness Problems
 
-![Liveness Problems](Liveness Problems.mindnode/QuickLook/Preview.jpg)
+![Liveness Problems](./Liveness%20Problems.mindnode/QuickLook/Preview.jpg)
 
 ## Futures and Promises in Scala
 
-![Futures and Promises in Scala](Futures and Promises in Scala.mindnode/QuickLook/Preview.jpg)
+![Futures and Promises in Scala](./Futures%20and%20Promises%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
 ## Actor Pattern and Akka
 
-![Actor Pattern and Akka](Actor Pattern and Akka.mindnode/QuickLook/Preview.jpg)
+![Actor Pattern and Akka](./Actor%20Pattern%20and%20Akka.mindnode/QuickLook/Preview.jpg)
 
 # Types and Scopes
 
 ## Covariance and Contravariance in Scala
 
-![Covariance and Contravariance in Scala](Covariance and Contravariance in Scala.mindnode/QuickLook/Preview.jpg)
+![Covariance and Contravariance in Scala](./Covariance%20and%20Contravariance%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
 ## Implicits in Scala
 
-![Implicits in Scala](Implicits in Scala.mindnode/QuickLook/Preview.jpg)
+![Implicits in Scala](./Implicits%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
 ## Type Classes in Scala
 
-![Type Classes in Scala](Type Classes in Scala.mindnode/QuickLook/Preview.jpg)
+![Type Classes in Scala](./Type%20Classes%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
 # Data Structures
 
 ## Functors and Monads in Scala
 
-![Functors and Monads in Scala](Functors and Monads in Scala.mindnode/QuickLook/Preview.jpg)
+![Functors and Monads in Scala](./Functors%20and%20Monads%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
 ## Immutable Collections in Scala
 
-![Immutable Collections in Scala](Immutable Collections in Scala.mindnode/QuickLook/Preview.jpg)
+![Immutable Collections in Scala](./Immutable%20Collections%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
 ## Graph Data Structures
 
-![Graph Data Structures](Graph Data Structures.mindnode/QuickLook/Preview.jpg)
+![Graph Data Structures](./Graph%20Data%20Structures.mindnode/QuickLook/Preview.jpg)
