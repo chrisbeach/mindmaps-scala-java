@@ -2,6 +2,8 @@
 
 A work in progress - pull requests gladly accepted.
 
+See also: [mindmaps-data-structures](https://github.com/chrisbeach/mindmaps-data-structures)
+
 ### Key
 
 ![Key](./key.png)
@@ -70,3 +72,6 @@ A work in progress - pull requests gladly accepted.
 
 ![Graph Data Structures](./Graph%20Data%20Structures.mindnode/QuickLook/Preview.jpg)
 
+## Trie Tree
+
+![Trie Tree](./Trie%20Tree.mindnode/QuickLook/Preview.jpg)
