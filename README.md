@@ -67,11 +67,3 @@ See also: [mindmaps-data-structures](https://github.com/chrisbeach/mindmaps-data
 ## Immutable Collections in Scala
 
 ![Immutable Collections in Scala](./Immutable%20Collections%20in%20Scala.mindnode/QuickLook/Preview.jpg)
-
-## Graph Data Structures
-
-![Graph Data Structures](./Graph%20Data%20Structures.mindnode/QuickLook/Preview.jpg)
-
-## Trie Tree
-
-![Trie Tree](./Trie%20Tree.mindnode/QuickLook/Preview.jpg)
