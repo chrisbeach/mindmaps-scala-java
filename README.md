@@ -26,6 +26,10 @@ A work in progress - pull requests gladly accepted.
 
 ![Futures and Promises in Scala](./Futures%20and%20Promises%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
+## Scala Async
+
+![Scala Async](./Scala%20Async.mindnode/QuickLook/Preview.jpg)
+
 ## Actor Pattern and Akka
 
 ![Actor Pattern and Akka](./Actor%20Pattern%20and%20Akka.mindnode/QuickLook/Preview.jpg)
@@ -47,6 +51,8 @@ A work in progress - pull requests gladly accepted.
 # Data Structures
 
 ## Functors and Monads in Scala
+
+* See: https://medium.com/zendesk-engineering/dont-fear-the-monad-f424260f29f6
 
 ![Functors and Monads in Scala](./Functors%20and%20Monads%20in%20Scala.mindnode/QuickLook/Preview.jpg)
 
