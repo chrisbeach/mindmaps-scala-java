@@ -12,6 +12,7 @@ A work in progress - pull requests gladly accepted.
 
 ![Design Patterns in Scala vs Java](./Design%20Patterns%20in%20Scala%20vs%20Java.mindnode/QuickLook/Preview.jpg)
 
+
 # Concurrency
 
 ## Locks and Concurrency Control
@@ -34,6 +35,7 @@ A work in progress - pull requests gladly accepted.
 
 ![Actor Pattern and Akka](./Actor%20Pattern%20and%20Akka.mindnode/QuickLook/Preview.jpg)
 
+
 # Types and Scopes
 
 ## Covariance and Contravariance in Scala
@@ -47,6 +49,10 @@ A work in progress - pull requests gladly accepted.
 ## Type Classes in Scala
 
 ![Type Classes in Scala](./Type%20Classes%20in%20Scala.mindnode/QuickLook/Preview.jpg)
+
+## Laziness
+
+![Laziness](./Laziness.mindnode/QuickLook/Preview.jpg)
 
 # Data Structures
 
@@ -63,3 +69,4 @@ A work in progress - pull requests gladly accepted.
 ## Graph Data Structures
 
 ![Graph Data Structures](./Graph%20Data%20Structures.mindnode/QuickLook/Preview.jpg)
+
